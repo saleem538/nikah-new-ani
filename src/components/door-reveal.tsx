@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 
 import { RotateCcw } from "lucide-react";
 
-const backdrop = "/images/background.jpg";
+const backdrop = "/images/background.png";
 const leftDoor = "/images/left-door.png";
 const rightDoor = "/images/right-door.png";
 const leftCurtain = "/images/left-curtain.png";
